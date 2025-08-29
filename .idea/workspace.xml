@@ -4,34 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e63245d-6356-448c-84cf-0c61af3d515d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qwest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-08-12_13.45.14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-09_12-37-24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_12-47-34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_13-23-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-28-32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-28-39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-28-45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-28-49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-28-54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-28-58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-29-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-29-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-14_13-13-30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-14_13-13-40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-14_15-32-43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-14_15-32-48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-14_15-32-53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-14_15-32-59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-14_15-33-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2025-08-14_15-37-15.jpg" afterDir="false" />
+    <list default="true" id="1e63245d-6356-448c-84cf-0c61af3d515d" name="Changes" comment="revel">
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-12_14-28-28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-24_15-18-49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_15-24-38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_15-28-54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_15-45-43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_15-51-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_15-51-28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_15-59-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_15-59-27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_16-01-36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_16-23-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_16-44-50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-28_16-44-55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_14-48-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_15-13-40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_15-17-43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_15-31-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_15-34-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_15-35-56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_15-53-33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_15-53-50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-11-56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-12-44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-13-27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-18-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-22-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-26-55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-26-59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-30-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo_2025-08-29_16-37-25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +65,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.hfgh.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/pythonProject/qwest"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.hfgh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pythonProject/qwest&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pythonProject\qwest" />
@@ -96,6 +101,30 @@
       <option name="presentableId" value="Default" />
       <updated>1754063083454</updated>
     </task>
+    <task id="LOCAL-00001" summary="revel">
+      <option name="closed" value="true" />
+      <created>1755880677223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755880677223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="revel" />
+    <option name="LAST_COMMIT_MESSAGE" value="revel" />
   </component>
 </project>
